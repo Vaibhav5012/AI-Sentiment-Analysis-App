@@ -1,0 +1,13 @@
+pandas
+matplotlib
+wordcloud
+tkinter
+beautifulsoup4
+nltk
+transformers
+torch
+selenium
+webdriver-manager
+requests
+textwrap
+
